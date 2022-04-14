@@ -1,0 +1,28 @@
+{
+  "name": "@weally/react-error-handler",
+  "version": "1.0.0",
+  "description": "Centralized (Context) error handling methods accessible through hook with default toast components to display erros, warnings, info and success toasts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziedHamdi/react-error-handler.git"
+  },
+  "keywords": [
+    "react",
+    "error",
+    "handling",
+    "react",
+    "context",
+    "error",
+    "handling"
+  ],
+  "author": "Zied Hamdi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ziedHamdi/react-error-handler/issues"
+  },
+  "homepage": "https://github.com/ziedHamdi/react-error-handler#readme"
+}

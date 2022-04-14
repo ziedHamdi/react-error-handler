@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/ziedHamdi/react-error-handler/issues"
   },
-  "homepage": "https://github.com/ziedHamdi/react-error-handler#readme"
+  "homepage": "https://github.com/ziedHamdi/react-error-handler#readme",
+  "devDependencies": {
+    "@mui/material": "^5.6.1"
+  }
 }

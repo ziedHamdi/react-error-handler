@@ -2,6 +2,8 @@
 This library allows you to handle runtime errors in react (in event handling processes) with a minimum of code to display errors, warning, info and success messages through a hook method call
 
 # How to use #
+**You can read a blog article that explains how this library works here: https://medium.com/@zhamdi/react-how-to-centralize-api-errors-management-b70fa05dba76**
+
 ## - Add context
 `import ToastContextProvider from 'transverse/toast/ToastContextProvider'`
 ### plain React ###
